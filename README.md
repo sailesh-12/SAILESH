@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/profile-pic.png" alt="Sailesh's banner" width="200"/>
+  <img src="https://github.com/sailesh-12/sailesh-12/blob/main/profile-pic.png" alt="Sailesh's banner" width="200"/>
 </p>
+
 # 👋 Hi, I'm Sailesh!
 
 🎓 B.Tech in Cyber Security & Computer Science  
@@ -14,7 +15,7 @@ Welcome to my GitHub! I’m passionate about building full-stack applications, e
 
 ### 🌤️ Weather App  
 A clean, responsive weather app that fetches real-time data using OpenWeather API.  
-**Tech Stack:** HTML, CSS, JavaScript ,React
+**Tech Stack:** HTML, CSS, JavaScript, React  
 🔗 [View Project](https://github.com/sailesh-12/weather-app)
 
 ---
@@ -36,14 +37,14 @@ An intelligent spam filter that classifies messages using machine learning.
 ### 🤖 AI Chatbot  
 A smart chatbot powered by OpenAI that can carry on meaningful conversations.  
 **Tech Stack:** Node.js, Express, OpenAI API  
-🔗 [View Project](https://github.com/yourusername/ai-chatbot)
+🔗 [View Project](https://github.com/sailesh-12/ai-chatbot)
 
 ---
 
 ### 💬 Real-time Chat App  
 A modern chat application with real-time messaging using WebSockets.  
 **Tech Stack:** React, Node.js, Socket.io  
-🔗 [View Project](https://github.com/yourusername/chat-app)
+🔗 [View Project](https://github.com/sailesh-12/chat-app)
 
 ---
 
@@ -59,8 +60,11 @@ A modern chat application with real-time messaging using WebSockets.
 
 - 📧 Email: your.email@example.com  
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 🧠 LeetCode: [leetcode.com/yourleetcode](https://leetcode.com/yourleetcode)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/yourleetcode)
 
 ---
 
 ⭐️ If you like what you see, consider giving a star to the projects. Let's build and learn together!
+
