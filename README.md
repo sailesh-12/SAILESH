@@ -12,21 +12,21 @@ Welcome to my GitHub! I’m passionate about building full-stack applications, e
 ### 🌤️ Weather App  
 A clean, responsive weather app that fetches real-time data using OpenWeather API.  
 **Tech Stack:** HTML, CSS, JavaScript  
-🔗 [View Project](https://github.com/yourusername/weather-app)
+🔗 [View Project](https://github.com/sailesh-12/weather-app)
 
 ---
 
 ### 🧾 Supabase CRUD App  
 A full-featured CRUD application using Supabase as the backend.  
 **Tech Stack:** React, Supabase, TailwindCSS  
-🔗 [View Project](https://github.com/yourusername/supabase-crud)
+🔗 [View Project](https://github.com/sailesh-12/supabase-project-crud)
 
 ---
 
 ### 🚫 Spam Filter  
 An intelligent spam filter that classifies messages using machine learning.  
 **Tech Stack:** Python, Scikit-learn, NLP  
-🔗 [View Project](https://github.com/yourusername/spam-filter)
+🔗 [View Project](https://github.com/sailesh-12/spam-filter)
 
 ---
 
