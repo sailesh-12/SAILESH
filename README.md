@@ -61,8 +61,8 @@ A modern chat application with real-time messaging using WebSockets.
 - 📧 Email: your.email@example.com  
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- 🧠 LeetCode: [leetcode.com/yourleetcode](https://leetcode.com/yourleetcode)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/yourleetcode)
+- 🧠 LeetCode: [leetcode.com/yourleetcode](https://leetcode.com/u/saileshkarthikeyan8/)  
+[![LeetCode](https://leetcode.com/u/saileshkarthikeyan8/)
 
 ---
 
