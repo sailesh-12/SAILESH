@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/main/profile-pic.png" alt="Sailesh's banner" width="200"/>
+</p>
 # 👋 Hi, I'm Sailesh!
 
 🎓 B.Tech in Cyber Security & Computer Science  
@@ -11,7 +14,7 @@ Welcome to my GitHub! I’m passionate about building full-stack applications, e
 
 ### 🌤️ Weather App  
 A clean, responsive weather app that fetches real-time data using OpenWeather API.  
-**Tech Stack:** HTML, CSS, JavaScript  
+**Tech Stack:** HTML, CSS, JavaScript ,React
 🔗 [View Project](https://github.com/sailesh-12/weather-app)
 
 ---
