@@ -58,9 +58,9 @@ A modern chat application with real-time messaging using WebSockets.
 
 ## 📫 Let’s Connect!
 
-- 📧 Email: your.email@example.com  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 📧 Email: saileshkarthikeyan8@gmail.com 
+- 🌐 Portfolio: [yourportfolio.com](https://saileshkarthikeyan8@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourname](www.linkedin.com/in/sailesh1230)  
 - 🧠 LeetCode: [leetcode.com/yourleetcode](https://leetcode.com/u/saileshkarthikeyan8/)  
 [![LeetCode](https://leetcode.com/u/saileshkarthikeyan8/)
 
