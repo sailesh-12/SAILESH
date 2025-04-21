@@ -29,7 +29,7 @@ A full-featured CRUD application using Supabase as the backend.
 
 ### 🚫 Spam Filter  
 An intelligent spam filter that classifies messages using machine learning.  
-**Tech Stack:** Python, Scikit-learn, NLP  
+**Tech Stack:** HTML,CSS,JAVASCRIPT  
 🔗 [View Project](https://github.com/sailesh-12/spam-filter)
 
 ---
