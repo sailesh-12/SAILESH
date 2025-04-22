@@ -36,14 +36,14 @@ An intelligent spam filter that classifies messages using machine learning.
 
 ### 🤖 AI Chatbot  
 A smart chatbot powered by OpenAI that can carry on meaningful conversations.  
-**Tech Stack:** Node.js, Express, OpenAI API  
+**Tech Stack:** Ollama, Python, OpenAI API  
 🔗 [View Project](https://github.com/sailesh-12/ai-chatbot)
 
 ---
 
 ### 💬 Real-time Chat App  
 A modern chat application with real-time messaging using WebSockets.  
-**Tech Stack:** React, Node.js, Socket.io  
+**Tech Stack:** HTML,CSS,Javascript,Socket.io  
 🔗 [View Project](https://github.com/sailesh-12/chat-app)
 
 ---
@@ -62,7 +62,6 @@ A modern chat application with real-time messaging using WebSockets.
 - 🌐 Portfolio: [saileshkartikeyan8@gmail.com](saileshkarthikeyan8@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/sailesh1230](www.linkedin.com/in/sailesh1230)  
 - 🧠 LeetCode: [leetcode.com/saileshkarthikeyan8](https://leetcode.com/u/saileshkarthikeyan8/)  
-[![LeetCode](https://leetcode.com/u/saileshkarthikeyan8/)
 
 ---
 
