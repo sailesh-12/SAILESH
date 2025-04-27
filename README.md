@@ -29,7 +29,7 @@ A full-featured CRUD application using Supabase as the backend.
 
 ### 🚫 Spam Filter  
 An intelligent spam filter that classifies messages using machine learning.  
-**Tech Stack:** HTML,CSS,JAVASCRIPT  
+**Tech Stack:** HTML, CSS, JavaScript  
 🔗 [View Project](https://github.com/sailesh-12/spam-filter)
 
 ---
@@ -43,7 +43,7 @@ A smart chatbot powered by OpenAI that can carry on meaningful conversations.
 
 ### 💬 Real-time Chat App  
 A modern chat application with real-time messaging using WebSockets.  
-**Tech Stack:** HTML,CSS,Javascript,Socket.io  
+**Tech Stack:** HTML, CSS, JavaScript, Socket.io  
 🔗 [View Project](https://github.com/sailesh-12/chat-app)
 
 ---
@@ -56,11 +56,17 @@ A modern chat application with real-time messaging using WebSockets.
 
 ---
 
+## 🏆 Achievements
+## Javascript Deobfuscation 
+- 🎖️ [Hack The Box Academy Achievement](https://academy.hackthebox.com/achievement/1754228/41)
+
+---
+
 ## 📫 Let’s Connect!
 
 - 📧 Email: saileshkarthikeyan8@gmail.com 
-- 🌐 Portfolio: [saileshkartikeyan8@gmail.com](saileshkarthikeyan8@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sailesh1230](www.linkedin.com/in/sailesh1230)  
+- 🌐 Portfolio: [saileshkartikeyan8@gmail.com](mailto:saileshkartikeyan8@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/sailesh1230](https://www.linkedin.com/in/sailesh1230/)  
 - 🧠 LeetCode: [leetcode.com/saileshkarthikeyan8](https://leetcode.com/u/saileshkarthikeyan8/)  
 
 ---
